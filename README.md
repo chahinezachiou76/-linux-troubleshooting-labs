@@ -3,7 +3,7 @@
 ##  About this Project
 This repository contains a technical write-up for the **"Saint John"** scenario from [SadServers](https://sadservers.com/).
 <details>
-  <summary><b>Click to view detailed probleme texet</b></summary>
+  <summary><b>Click to view detailed probleme text</b></summary>
   <br>
   <img src="probleme.text.png" width="100%">
 </details>
