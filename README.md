@@ -47,7 +47,7 @@ To empty the file and free up space without deleting the file itself:
 ##  Final Result
 The challenge was solved successfully!
 <details>
-  <summary><b>Click to view detailed soluion  </b></summary>
+  <summary><b>Click to view detailed solution  </b></summary>
   <br>
   <img src="sadservers.lab.png" width="100%">
 </details>
