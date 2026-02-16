@@ -1,7 +1,13 @@
 # Linux Troubleshooting: Resolving Disk Space Exhaustion (Saint John Challenge)
 
 ##  About this Project
-This repository contains a technical write-up for the **"Saint John"** scenario from [SadServers](https://sadservers.com/). 
+This repository contains a technical write-up for the **"Saint John"** scenario from [SadServers](https://sadservers.com/).
+<details>
+  <summary><b>Click to view detailed probleme texet</b></summary>
+  <br>
+  <img src="probleme.text.png" width="100%">
+</details>
+
 
 **Troubleshooting** is the process of identifying, tracing, and fixing problems in a system. In this case, I diagnosed and fixed a server issue where a rogue process was filling up the disk space rapidly.
 
@@ -40,8 +46,12 @@ To empty the file and free up space without deleting the file itself:
 
 ##  Final Result
 The challenge was solved successfully!
+<details>
+  <summary><b>Click to view detailed sulotion  </b></summary>
+  <br>
+  <img src="sadservers.lab.png" width="100%">
+</details>
 
-![Success Badge](1000005218.jpg)
 
 ###  Summary Table
 | Command | Why I used it |
